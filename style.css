@@ -1,7 +1,7 @@
 #home {
     height: 100vh;
     width: 100vw;
-    background-image: url(./images/bg_header.jpg);
+    background-image: url("./images/bg_header.jpg");
     background-size: cover;
 }
 
@@ -12,8 +12,7 @@ html {
   }
 
   .nuage {
-    height: 50vh;
+    background-image: url("./images/bg_nuage.jpg");
     width: 100vw;
-    background-image: url(./images/bg_nuage.jpg);
     background-size: cover;
   }
