@@ -16,9 +16,6 @@ Vos références sont les fichiers maquette*.jpg
 
 Votre template HTML contiendra plusieurs parties dans l'ordre :
 
-* un header ayant pour id ‘home’
-* une section ayant pour id ‘features’, contenant la seconde partie et son contenu
-* une section ayant pour id ‘about’, contenant la troisième partie et son contenu
 * une section ayant pour id ‘blog’, contenant la quatrième partie et son contenu
 * une section ayant pour id ‘history’, contenant la cinquième partie et son contenu
 * une section ayant pour id ‘photos’, contenant la sixième partie et son contenu
